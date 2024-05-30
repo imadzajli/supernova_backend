@@ -1,0 +1,9 @@
+{
+    "broker" : "test.mosquitto.org",
+    "port" : 1883,
+    "topics" : {
+        "display" : "supernova_robotic_display_EHTP2024",
+        "mouvement" : "supernova_robotic_mouvement_EHTP2024",
+        "GPS" : "supernova_robotic_gps_EHTP2024"
+    }
+}
